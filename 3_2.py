@@ -1,0 +1,6 @@
+x = int(input())
+y = int(input())
+z = int(input())
+srednee_a = ((x + y + z)/3)
+result = round(srednee_a, 3)
+print(result)

@@ -1,0 +1,7 @@
+text = input()
+change = text.split()
+text1 = '-'.join(change)
+print(text1)
+text = input()
+result = text.replace (' ','-')
+print(result)
