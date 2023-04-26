@@ -30,5 +30,4 @@ class Car:
             def __str__(self):
                 return f'Car: color={self.color}, passengers={self.count_passenger_seats}  kids={self.is_baby_seat} busy seats = {self.is_busy}'
 
-
 print(Car)
